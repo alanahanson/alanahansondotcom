@@ -1,0 +1,69 @@
+body	{
+	background: linear-gradient(#FFFFFF, #e6ffff);
+	font-family: Futura;
+	height: 100vh;
+	}
+
+
+.page-header {
+	background: linear-gradient(to right, #ff1919, deeppink);
+	color: white;
+	margin-top: 10px;
+	padding: 5px;
+}
+
+h1 {
+	padding: 5px;
+	vertical-align: text-top;
+	font-size: 48px;
+	margin-left: 2%;
+}
+
+nav li a {
+	color: white;
+	font-size: 18px;
+}
+
+.main {
+	/*padding: 1%;*/
+	/*margin-left: 1%;*/
+	min-height: 80vh;
+}
+
+.main img {
+	display: inline-block;
+	float: left;
+	max-width: 200px;
+	margin: 1%;
+	padding-top: 2%;
+}
+
+.main p {
+	margin: 1%;
+	font-size: 18px;
+}
+
+.resume {
+	width: 75%;
+	margin-left: 10%;
+	padding: 1%;
+}
+
+.resume h2 {
+	text-align: center;
+}
+
+.sidebar {
+	text-align: center;
+}
+
+.sidebar li {
+	margin: 3%;
+	list-style: none;
+}
+
+.footer {
+    width: 100%;
+    height: 30px;
+    background-color: #E6FFFF;
+}
