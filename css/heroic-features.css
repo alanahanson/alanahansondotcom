@@ -1,0 +1,53 @@
+/*!
+ * Start Bootstrap - Heroic Features HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+ * {
+  font-family: Futura;
+ }
+
+nav {
+  font-size: 1.5em;
+}
+
+.navbar-default {
+  background-color: #FF7F50;
+}
+
+.navbar-default .navbar-nav>li>a, .fa-home {
+  color: #333333;
+}
+
+nav a:hover {
+  font-weight: bolder;
+  color: #333333;
+  font-size: 1.05em;
+}
+
+#alana {
+  font-size: 120px;
+  text-align: center;
+}
+
+#alana2 {
+  text-align: center;
+}
+.hero-spacer {
+    margin-top: 20px;
+    background-color: white;
+}
+
+.hero-feature {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.thumbnail {
+  border: none;
+}
+
+.thumbnail a > img {
+  width: 60%;
+}
