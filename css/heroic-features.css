@@ -51,3 +51,13 @@ nav a:hover {
 .thumbnail a > img {
   width: 60%;
 }
+
+.resume {
+  width: 75%;
+  margin-left: 10%;
+  padding: 1%;
+}
+
+.resume h2 {
+  text-align: center;
+}
