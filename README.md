@@ -1,2 +1,0 @@
-# alanahansondotcom
-Personal Site
