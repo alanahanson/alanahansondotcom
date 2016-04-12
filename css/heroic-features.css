@@ -89,3 +89,7 @@ nav a:hover {
 .resume h2 {
   text-align: center;
 }
+
+.min-height {
+  min-height: 90vh;
+}
