@@ -81,8 +81,8 @@ nav a:hover {
 
 /*Resume*/
 .resume {
-  width: 75%;
-  margin-left: 10%;
+  /*width: 90%;*/
+  /*margin-left: 10%;*/
   padding: 1%;
 }
 
@@ -93,3 +93,4 @@ nav a:hover {
 .min-height {
   min-height: 90vh;
 }
+
