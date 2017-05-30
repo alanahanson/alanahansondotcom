@@ -81,9 +81,14 @@ nav a:hover {
 
 /*Resume*/
 .resume {
-  /*width: 90%;*/
-  /*margin-left: 10%;*/
+  width: 80%;
+  background-color: rgb(250,250,250);
+  margin: auto;
   padding: 1%;
+}
+
+.resume * {
+  margin-top: 1%;
 }
 
 .resume h2 {
